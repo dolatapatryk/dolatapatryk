@@ -20,19 +20,22 @@ My name is Patryk Dolata and I'm a software developer. I'm from Poland, living i
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dolatapatryk/dolatapatryk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolatapatryk&hide=pascal, scala,html,css&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolatapatryk&hide=pascal, scala,html,css&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dolatapatryk/dolatapatryk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolatapatryk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dolatapatryk's GitHub Stats" />
 </a>
-<!--
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/dolatapatryk/ChatApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=ChatApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/dolatapatryk/life-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=life-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
--->
+<a href="https://github.com/dolatapatryk/smart-picasso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=smart-picasso&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 
 ## 📫 How to reach me:
 You cand find me on [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)][3] or on [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)][1].
