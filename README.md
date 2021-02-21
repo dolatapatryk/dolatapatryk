@@ -27,13 +27,13 @@ My name is Patryk Dolata and I'm a software developer. I'm from Poland, living i
 </a>
 
 <a href="https://github.com/dolatapatryk/ChatApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=ChatApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=ChatApp&title_color=fffffe&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dolatapatryk/life-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=life-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 <a href="https://github.com/dolatapatryk/smart-picasso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=smart-picasso&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dolatapatryk&repo=smart-picasso&title_color=fffffe&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 
