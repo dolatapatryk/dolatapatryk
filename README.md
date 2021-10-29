@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Patryk Dolata and I'm a software engineer. I'm from Poland, living in Poznań and currently working as Fullstack Java Developer. I graduated Poznań University of Technology with a Bachelor of Engineering degree in Computing. Currently I'm doing my Master's degree at Adam Mickiewicz University.
+My name is Patryk Dolata and I'm a software engineer. I'm from Poland, living in Poznań and currently working as Java Software Engineer. I graduated Poznań University of Technology with a Bachelor of Engineering degree in Computing and Adam Mickiewicz University with Master's degree in CS.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=2bbc8a)
